@@ -1,4 +1,4 @@
-package com.wuquxing.ui.view;
+
 
 import android.content.Context;
 import android.os.Handler;
@@ -8,10 +8,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
-import com.wuquxing.ui.R;
-import com.wuquxing.ui.uitls.XLog;
-
 import java.util.HashMap;
 import java.util.Map;
 
